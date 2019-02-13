@@ -1,89 +1,76 @@
+lastUpdated = "2019-02-13 10:56:40"
 serviceName = "my-file3"
-version = "5.0.5"
-lastUpdated = "2019-02-04 19:12:32"
-__timeStamp = 0
+version = "5.0.6"
 
 [[apps]]
   appName = "predix-acs"
-  pipeline = "access-control-service/5.0.5/Jenkinsfile_DeployPPC-5.0.5"
-  __timeStamp = 0
+  pipeline = "access-control-service/5.0.5/Jenkinsfile_DeployPPC-5.0.6"
 
-    [[apps.packages]]
-      name = "ppc-acs-deploy-5.0.5-SNAPSHOT.tgz"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "ppc-acs-deploy-5.0.5-SNAPSHOT.tgz"
+    type = "artifact"
 
-    [[apps.packages]]
-      name = "acs-service-5.0.5-SNAPSHOT.jar"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "acs-service-5.0.5-SNAPSHOT.jar"
+    type = "artifact"
 
-    [[apps.packages]]
-      name = "acs-service-5.0.5-SNAPSHOT-exec.jar"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "acs-service-5.0.5-SNAPSHOT-exec.jar"
+    type = "artifact"
 
-    [[apps.packages]]
-      name = "acs-integration-tests-5.0.5-SNAPSHOT-fat-tests.jar"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "acs-integration-tests-5.0.5-SNAPSHOT-fat-tests.jar"
+    type = "artifact"
 
-    [[apps.packages]]
-      name = "ppc-acs-deploy-5.0.4.tgz"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "ppc-acs-deploy-5.0.4.tgz"
+    type = "artifact"
 
-    [[apps.packages]]
-      name = "acs-service-5.0.4.jar"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "acs-service-5.0.4.jar"
+    type = "artifact"
 
-    [[apps.packages]]
-      name = "acs-service-5.0.4-exec.jar"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "acs-service-5.0.4-exec.jar"
+    type = "artifact"
 
-    [[apps.packages]]
-      name = "acs-integration-tests-5.0.4-fat-tests.jar"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "acs-integration-tests-5.0.4-fat-tests.jar"
+    type = "artifact"
 
-    [[apps.packages]]
-      name = "ppc-acs-deploy-5.0.5.tgz"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "ppc-acs-deploy-5.0.5.tgz"
+    type = "artifact"
 
-    [[apps.packages]]
-      name = "acs-service-5.0.5.jar"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "acs-service-5.0.5.jar"
+    type = "artifact"
 
-    [[apps.packages]]
-      name = "acs-service-5.0.5-exec.jar"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "acs-service-5.0.5-exec.jar"
+    type = "artifact"
 
-    [[apps.packages]]
-      name = "acs-integration-tests-5.0.5-fat-tests.jar"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "acs-integration-tests-5.0.5-fat-tests.jar"
+    type = "artifact"
 
-    [[apps.packages]]
-      name = "ppc-acs-deploy-5.0.6-SNAPSHOT.tgz"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "ppc-acs-deploy-5.0.6-SNAPSHOT.tgz"
+    type = "artifact"
 
-    [[apps.packages]]
-      name = "acs-service-5.0.6-SNAPSHOT.jar"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "acs-service-5.0.6-SNAPSHOT.jar"
+    type = "artifact"
 
-    [[apps.packages]]
-      name = "acs-service-5.0.6-SNAPSHOT-exec.jar"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "acs-service-5.0.6-SNAPSHOT-exec.jar"
+    type = "artifact"
 
-    [[apps.packages]]
-      name = "acs-integration-tests-5.0.6-SNAPSHOT-fat-tests.jar"
-      type = "artifact"
-      __timeStamp = 0
+  [[apps.packages]]
+    name = "acs-integration-tests-5.0.6-SNAPSHOT-fat-tests.jar"
+    type = "artifact"
+
+  [[apps.packages]]
+    name = "testPackageName129"
+    type = "testPackageType129"
+    version = "testPackageVersion129"

@@ -1,0 +1,12 @@
+lastUpdated = "2019-02-13 00:01:49"
+serviceName = "my-file3"
+version = "5.0.4"
+
+[[apps]]
+  appName = "predix-acs"
+  pipeline = "access-control-service/5.0.5/Jenkinsfile_DeployPPC-5.0.5"
+
+  [[apps.packages]]
+    name = "testPackageName126"
+    type = "testPackageType126"
+    version = "testPackageVersion126"

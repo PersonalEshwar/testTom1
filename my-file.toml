@@ -10,16 +10,3 @@ version = "5.0.3"
     name = "testPackageName11"
     type = "testPackageType11"
 
-  [[apps.packages]]
-    name = "testPackageName12"
-    type = "testPackageType12"
-
-  [[apps.packages]]
-    name = "testPackageName3"
-    type = "testPackageType3"
-    version = "testPackageVersion3"
-
-  [[apps.packages]]
-    name = "testPackageName4"
-    type = "testPackageType4"
-    version = "testPackageVersion4"
